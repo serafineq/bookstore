@@ -1,0 +1,88 @@
+@media (max-width: 1400px) {
+    #zakup {
+        margin-left: 50px;
+        font-size: 25px;
+    }
+    #cena {
+        margin-left: 20px;
+        font-size: 25px;
+    }
+    #opis-ksiazki {
+        font-size: 40%;
+    }
+    #title {
+        font-size: 30px;
+    }
+}
+@media (max-width: 900px) {
+    #title {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1200px) {
+    #guziki {
+        margin-left: 380px;
+    }
+    #zakup {
+        margin-left: 50px;
+        font-size: 25px;
+    }
+    #cena {
+        margin-left: 45px;
+        font-size: 25px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 800px) {
+    #opis-ksiazki {
+        display: none;
+    }
+    #tytul-ksiazki {
+        display: none;
+    }
+    #zakup {
+        margin-left: 50px;
+        font-size: 25px;
+    }
+    #guziki {
+        margin-left: 5px;
+    }
+    #cena {
+        margin-left: 45px;
+        font-size: 25px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    #ramka {
+        margin-top: -200px;
+    }
+    #zakup2 {
+        display: none;
+    }
+}
+
+@media (max-width: 600px) {
+    #opis-ksiazki {
+        display: none;
+    }
+    #tytul-ksiazki {
+        display: none;
+    }
+    #cena {
+        margin-left: 45px;
+        font-size: 25px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    #ramka {
+        margin-top: -200px;
+    }
+    #zakup2 {
+        display: none;
+    }
+}
+
+

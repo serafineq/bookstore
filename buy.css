@@ -1,0 +1,65 @@
+#ramka {
+    height: 1000px;
+}
+#main-box {
+    width: 90%;
+    text-align: justify;
+    font-family: Cambria;
+    font-size: 50px;
+    margin-left: 50px !important;
+    padding-left: 50px;
+    margin-bottom: 35px;
+}
+#ramka img{
+    height:450px;
+    border-radius: 15%;
+    width:300px;
+    border: 3px solid rgb(255, 255, 255);
+    float: left;
+}
+#opis-ksiazki {
+    width: 50%;
+    text-align: justify;
+    font-size: 25px;
+    float: left;
+    height: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    border: 1px solid rgb(17, 17, 17);
+    border-radius: 15px;
+    margin-left: 30px;
+    overflow-y: auto;
+    background-color: rgb(246, 246, 246);
+    margin-top: 10px;
+}
+#tytul-ksiazki {
+    margin-left: 350px;
+}
+#guziki {
+    margin-top: 200px;
+}
+#cena {
+    width: 220px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 120px;
+    font-size: 35px;
+    float: left;
+    border: 1px solid rgb(17, 17, 17);
+    background-color: rgb(246, 246, 246);
+}
+#zakup {
+    background-color: red;
+    width: 220px;
+    margin-left: 100px;
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 35px;
+    border: 1px solid rgb(17, 17, 17);
+    background-color: rgb(246, 246, 246);
+}
